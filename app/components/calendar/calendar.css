@@ -1,0 +1,25 @@
+.calendar {
+  width: 610px;
+  padding: 35px;
+
+  color: grey;
+}
+.btn{
+  text-align: right;
+}
+
+.clear, .save{
+  margin-left: 15px;
+  padding: 10px 25px;
+
+  cursor: pointer;
+
+  color: white;
+  border: none;
+  border-radius: 5px;
+
+  font-size: 15px;
+}
+.clear:hover, .save:hover{
+  background: #a7a2a2;
+}

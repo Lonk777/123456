@@ -1,0 +1,30 @@
+.all-day {
+  float: left;
+
+  width: 40px;
+  height: 50px;
+  margin-top: -1px;
+  margin-right: -1px;
+  padding: 0;
+
+  text-align: center;
+
+  border: 1px solid #ffffff;
+  background: #999;
+
+  font-size: 20px;
+}
+
+.check{
+  display: block;
+
+  width: 20px;
+  height: 20px;
+  margin: 45% auto;
+
+  border-radius: 100%;
+  background: #ffffff;
+
+  line-height: 19px;
+
+}

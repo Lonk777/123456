@@ -1,0 +1,24 @@
+
+.cell {
+  float: left;
+
+  width: 20px;
+  height: 50px;
+  margin-top: -1px;
+  margin-right: -1px;
+  padding: 0;
+
+  text-align: center;
+
+  border: 1px solid #c8c8c8;
+  background: #fff;
+
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 34px;
+}
+
+.cell.set-time{
+  background: #e4e1e1;
+
+}
